@@ -33,7 +33,7 @@ public class AppTest
      */
     public void testApp()
     {
-    	System.out.println("Test");
+    	System.out.println("Test New Branch");
         assertTrue( true );
     }
 }
